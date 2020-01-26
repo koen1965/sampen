@@ -1,6 +1,7 @@
 import math
 import numpy as np
 
+print("hi")
 
 def normalize_data(data):
     """
